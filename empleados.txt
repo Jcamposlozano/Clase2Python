@@ -1,0 +1,13 @@
+
+******************
+Nombre : Jonathan
+Apellido: Campos Lozano
+Sueldo: 1000000
+DiasLiquidados: 24
+Salario: 800000.0
+******************
+Nombre : Pedro
+Apellido: Marciano
+Sueldo: 3000000
+DiasLiquidados: 10
+Salario: 1000000.0
